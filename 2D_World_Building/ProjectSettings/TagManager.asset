@@ -13,15 +13,15 @@ TagManager:
   - UI
   - 
   - 
+  - Background
+  - Middleground
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Player
   - 
   - 
   - 
@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3110164659
+    locked: 0
+  - name: Middleground
+    uniqueID: 1485136945
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
